@@ -20,6 +20,11 @@
     --purple-500: #8257e5;
     --purple-800: #6f48c9;
 }
+@media (max-width: 1920px) {
+    html {
+        font-size: 80%;
+    }
+}
 
 @media (max-width: 1080px) {
     html {
@@ -60,3 +65,9 @@ h2 {
 button {
     cursor: pointer;
 }
+/* p ,span{
+   
+    font-family: Inter, sans-serif;
+    font-weight: 500;
+}
+ */
