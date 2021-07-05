@@ -8,7 +8,7 @@
 
 
 
-## :rocket: Sobre o projeto
+## 💻 Sobre o projeto
 
 O projeto Podcastr é uma aplicação  web que permite os usuários ouvirem seus podcasts favoritos, ver os últimos lançamentos e obter mais informações dos podcasts que estiverem ouvindo no momento. A ideia da aplicação surgiu através da  **Trilha React** da *Next Level Week* distribuída pela **Rocketseat**. 
 
